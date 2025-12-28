@@ -7,6 +7,30 @@ This project is a from-scratch 3D wireframe renderer built using HTML and JavaSc
 The goal of this project is to understand how 3D graphics work internally by manually implementing the complete 3D to 2D rendering pipeline using math and the HTML5 canvas.
 
 ---
+## How to Clone and Run the Project
+
+To run this project locally, follow these steps:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Sagar-Kumar-1107/3d-renderer.git
+```
+
+### 2. Go into the Project Folder
+```bash
+cd 3d-renderer
+```
+
+### 3. Open the project in your browser:
+
+```bash
+explorer index.html
+```
+
+(For Windows / Git Bash)
+
+Or simply open the file manually by double-clicking `index.html`.
+
 
 ## Project Motivation
 
