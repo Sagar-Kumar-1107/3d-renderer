@@ -1,4 +1,4 @@
-# Software 3D Wireframe Renderer (JavaScript + Canvas)
+# 3D Wireframe Renderer (JavaScript + Canvas)
 
 ## Overview
 
