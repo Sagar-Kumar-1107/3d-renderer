@@ -31,6 +31,11 @@ explorer index.html
 
 Or simply open the file manually by double-clicking `index.html`.
 
+---
+## Sample image
+<img width="507" height="383" alt="image" src="https://github.com/user-attachments/assets/b6a0bc00-8dfd-4207-871a-47845c13211d" />
+
+---
 
 ## Project Motivation
 
